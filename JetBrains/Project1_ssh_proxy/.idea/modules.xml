@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Proj1_ssh.iml" filepath="$PROJECT_DIR$/Proj1_ssh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project1_ssh_proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/Project1_ssh_proxy.iml" />
     </modules>
   </component>
 </project>
